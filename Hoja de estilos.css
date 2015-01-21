@@ -1,0 +1,55 @@
+html
+{
+  background: url("Fondo.jpeg") ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body
+{
+  color: white;
+  font-family: sans-Serif, Verdana; 
+  font-size: 0.8em;
+}
+body.bio
+{
+  color: white;
+  text-align: center;
+  font-size: 1em;
+}
+a
+{
+  color: white;
+}
+footer
+{
+  text-align: center;
+} 
+p.cuestionarios
+{
+  text-align: left;
+  margin-left: 30%;
+}
+h2.altas
+{
+  text-align: left;
+  margin-left: 35%;
+}
+ nav.bio
+{
+text-align: left;
+}
+
+form.Comunidad
+{
+text-align: center;
+}
+h1
+{
+text-align: center; 
+}
+    
